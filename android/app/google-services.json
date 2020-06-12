@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "807363297586",
+    "firebase_url": "https://pool-waterheater-calculator.firebaseio.com",
+    "project_id": "pool-waterheater-calculator",
+    "storage_bucket": "pool-waterheater-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807363297586:android:80706e747913964ee7d72b",
+        "android_client_info": {
+          "package_name": "com.georgeabdelnour.poolheatercalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807363297586-t5jnibfaj9l8ub6jprsc7o9t0f84igiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeabdelnour.poolheatercalculator",
+            "certificate_hash": "36c743a460b3418fc3182cc1b0fee2e4ee80e85e"
+          }
+        },
+        {
+          "client_id": "807363297586-gorr38rh8cegrtssjniv8geqv8i303e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEqM9KF7-L3vT4UJlc6o_cfDzPDn7tVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807363297586-gorr38rh8cegrtssjniv8geqv8i303e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807363297586:android:ae55adddaad9e489e7d72b",
+        "android_client_info": {
+          "package_name": "com.saiflimited.poolheatercalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807363297586-45gkkd3nprivdnj2ujm5nfcm40hovm41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saiflimited.poolheatercalculator",
+            "certificate_hash": "162f6566ee8c41a2df6c02d236f0fd1fcdefc0ec"
+          }
+        },
+        {
+          "client_id": "807363297586-qjmksto1qv7srb7o27cpqi1hojtchm4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saiflimited.poolheatercalculator",
+            "certificate_hash": "36c743a460b3418fc3182cc1b0fee2e4ee80e85e"
+          }
+        },
+        {
+          "client_id": "807363297586-gorr38rh8cegrtssjniv8geqv8i303e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEqM9KF7-L3vT4UJlc6o_cfDzPDn7tVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807363297586-gorr38rh8cegrtssjniv8geqv8i303e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
